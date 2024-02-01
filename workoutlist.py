@@ -1,0 +1,7 @@
+trainingpart = input ('請輸入要進行的動作:')
+print('training part for today:', trainingpart)
+sets=input('請輸入要進行的組數:')
+print('sets:', sets)
+reps = input ('請輸入一組要進行的次數:')
+print('reps:', reps)
+print('training part for today:', trainingpart, 'sets:', sets, 'reps:',reps)
